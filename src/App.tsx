@@ -1,6 +1,6 @@
 import "./App.css";
 
-function App() {
+export default function App() {
   return (
     <>
       <div className="flex flex-col items-center min-h-screen min-w-screen">
@@ -9,5 +9,3 @@ function App() {
     </>
   );
 }
-
-export default App;
